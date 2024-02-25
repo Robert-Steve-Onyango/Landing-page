@@ -35,10 +35,6 @@ Contributions to enhance the functionality or documentation of the Django Landin
 4. Test your changes thoroughly.
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE), allowing you to use, modify, and distribute the code freely.
-
 ## Acknowledgements
 
 - Bootstrap for providing an excellent front-end framework.
@@ -46,3 +42,6 @@ This project is licensed under the [MIT License](LICENSE), allowing you to use, 
 - Contributors who help improve and maintain this project.
 
 Thank you for using the Django Landing Page repository. Happy coding!
+
+## Author
+> João Pedro Pereira <div> <a href="https://www.linkedin.com/in/joaopedro-pereira-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:jp_pereira@id.uff.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> </div>
