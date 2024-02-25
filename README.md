@@ -1,6 +1,6 @@
 > Status: Doing
 > 
-> ![GitHub License](https://img.shields.io/github/license/jps-pereira/Landing-page-with-Django)
+> ![GitHub License](https://img.shields.io/github/license/jps-pereira/Landing-page)
 > 
 # Django Landing Page
 
