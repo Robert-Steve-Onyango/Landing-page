@@ -1,3 +1,7 @@
+> Status: Doing
+> 
+> ![GitHub License](https://img.shields.io/github/license/jps-pereira/Landing-page-with-Django)
+> 
 # Django Landing Page
 
 Welcome to the Django Landing Page repository! This project provides a straightforward solution for creating a Landing Page using Django, a powerful web framework based on Python. Whether you're building a landing page for a web application, product, or service, this repository offers a solid foundation to get started.
