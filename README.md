@@ -7,7 +7,7 @@ Welcome to the Django Landing Page repository! This project provides a straightf
 - **Django Framework**: Leverage Django's capabilities for rapid development and maintainability.
 - **Bootstrap Integration**: Easily implement responsive design and achieve a professional look with Bootstrap.
 - **Contact Forms**: Enable visitors to reach out effortlessly through integrated contact forms.
-- **Django Admin**: Utilize Django's admin interface for intuitive content management.
+- **Django Admin**: Use Django's admin interface for intuitive content management.
 - **Customizable**: Adapt the Landing Page to suit your project's specific requirements.
 - **Documentation**: Detailed documentation guides you through setup and customization.
 
